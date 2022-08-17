@@ -2,4 +2,6 @@
 MVP for my capstone.
 
 MVP:
-<ul>User can click button and navagate to different platforms.</ul>
+<ul>
+  <li>User can click button and navagate to different platforms.</li>
+</ul>
